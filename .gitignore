@@ -1,0 +1,10 @@
+# Ignore IDE files
+.vscode
+.idea
+
+# Common ignores
+node_modules
+dist
+
+# Mac OS files
+.DS_Store
